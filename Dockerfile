@@ -87,5 +87,3 @@ make install && make clean
 
 COPY entrypoint.sh /entrypoint.sh
 RUN chmod 755 /entrypoint.sh
-
-© 2018 GitHub, Inc.
