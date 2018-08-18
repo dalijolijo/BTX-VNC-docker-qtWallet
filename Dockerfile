@@ -3,7 +3,7 @@
 # Version 0.15.0.3 https://github.com/LIMXTEC/BitCore/commit/1cee864f94e5f087da7cb8e5a2bf74bba8b28419
 # Version 0.15.1.0 https://github.com/LIMXTEC/BitCore/commit/0ee70eb84f6b36ca2c69036e62c6c0f67312aa7a
 
-FROM ubuntu:16.04
+FROM ubuntu:14.04
 
 # Although it's customary to lump all the apt-get instructions into one layer, I will instead separate them
 # into a small number of layers each containing some related packages. I think you'll find understanding their purposes
